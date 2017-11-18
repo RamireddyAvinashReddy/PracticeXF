@@ -13,7 +13,7 @@ namespace PracticeXF
         {
             InitializeComponent();
 
-            MainPage = new PracticeXF.MainPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()
