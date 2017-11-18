@@ -5,8 +5,8 @@
              x:Class="PracticeXF.MainPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
+            <Label Text="Welcome to my world"
+                VerticalOptions="CenterAndExpand"
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
     </ContentPage.Content>
